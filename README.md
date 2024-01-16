@@ -7,7 +7,7 @@ The Bubble promo video can be found here https://youtu.be/z7_tHfFPTTU
 
 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,figma,git,github,jest,nodejs,postgres,react,supabase,ts,vercel&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,figma,git,github,jest,nodejs,postgres,react,supabase,ts,vercel&perline=20)](https://skillicons.dev)
 
 <p align="center">
 🌱 I’m currently working on a portfolio website, applying for my first role and creating a roadmap to develop my skills further.
