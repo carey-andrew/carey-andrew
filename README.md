@@ -11,13 +11,13 @@ My Skills
 
 <p align="center">
 🌱 I’m currently working on a portfolio website, applying for my first role and creating a roadmap to develop my skills further.
-
+<p align="center">
 🤔 I’m looking for help with anything that I get stuck with! 
-
+<p align="center">
 💬 Ask me about being a science teacher 🧪 or tennis coach 🎾
-
+<p align="center">
 📫 How to reach me: andycareycode@gmail.com 
-
+<p align="center">
 ⚡ Fun fact: I have run 5 marathons (all before I had kids!)
 </p>
 
