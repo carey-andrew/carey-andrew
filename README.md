@@ -1,3 +1,4 @@
+<p align="center">
 ### Hi there 👋 I'm Andy
 🔭 I’ve recently completed the School of code bootcamp, presenting our final project on Jan 10th.
 On Github you can find the project that we built in 4 weeks - Bubble, as well as other apps that I have made as part of my learning.
@@ -20,4 +21,6 @@ My Skills
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=carey-andrew&count_private=true&theme=tokyonight&showicons=true)]()
+
+</p>
 
