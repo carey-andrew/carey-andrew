@@ -17,3 +17,5 @@ On Github you can find the project that we built in 4 weeks - Bubble, as well as
 ⚡ Fun fact: I have run 5 marathons (all before I had kids!)
 
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=carey-andrew&count_private=true&theme=tokyonight&showicons=true)]()
+
