@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Andy
 🔭 I’ve recently completed the School of code bootcamp, presenting our final project on Jan 10th.
 On Github you can find the project that we built in 4 weeks - Bubble, as well as other apps that I have made as part of my learning.
 The Bubble promo video can be found here https://youtu.be/z7_tHfFPTTU  
