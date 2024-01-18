@@ -21,7 +21,9 @@ My Skills
 ⚡ Fun fact: I have run 5 marathons (all before I had kids!)
 </p>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=carey-andrew&count_private=true&theme=tokyonight&showicons=true)]()
 
-
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api/?username=carey-andrew&count_private=true&theme=tokyonight&showicons=true" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carey-andrew&theme=radical&layout=compact" />
+</div>
 
