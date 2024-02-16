@@ -27,6 +27,7 @@ My Skills
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carey-andrew&theme=radical&layout=compact" />
 </div>
 
-   
+<div style="align-items: center;">   
    <img style="align-items: center;" class="img" src="https://github.r2v.ch/codewars?user=AndyCarey&stroke=blue" />
+</div>
 
