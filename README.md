@@ -28,6 +28,6 @@ My Skills
 </div>
 
 <div style="align-items: center;">   
-   <img style="align-items: center;" class="img" src="https://github.r2v.ch/codewars?user=AndyCarey&stroke=blue" />
+   <img style="margin:auto;" class="img" src="https://github.r2v.ch/codewars?user=AndyCarey&stroke=rgb(0,0,0)" />
 </div>
 
