@@ -28,6 +28,6 @@ My Skills
 </div>
 
 <div align="center">   
-   <img margin="auto" class="img" width="400" height="400" src="https://github.r2v.ch/codewars?user=AndyCarey&stroke=rgb(0,0,0)" />
+   <img class="img" width="400" height="400" src="https://github.r2v.ch/codewars?user=AndyCarey&stroke=rgb(0,0,0)" />
 </div>
 
