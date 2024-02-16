@@ -25,6 +25,6 @@ My Skills
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api/?username=carey-andrew&count_private=true&theme=tokyonight&showicons=true" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carey-andrew&theme=radical&layout=compact" />
-   ![Codewars](https://github.r2v.ch/codewars?user=AndyCarey&stroke=blue)
+<img class="img" src="https://github.r2v.ch/codewars?user=AndyCarey&stroke=blue" />
 </div>
 
